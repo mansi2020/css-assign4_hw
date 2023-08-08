@@ -73,7 +73,7 @@ flex items within the flex container.
 Pseudo-classes are preceded by a colon (:) and are used to apply styles to elements based on user actions or their position in the document tree.
 hover=> This pseudo-class is used to apply styles when a user hovers their mouse over an element.
 
-# Section-3 & Section-4 
+# Section-2 & Section-3
 ![section-2](https://github.com/mansi2020/css-assign4_hw/assets/57188328/0d02866d-8483-429f-b375-4affc9df085c)
 ![section-3](https://github.com/mansi2020/css-assign4_hw/assets/57188328/5b34b57f-4d57-4496-bd1a-86592852e7d9)  
 
