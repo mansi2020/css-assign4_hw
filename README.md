@@ -62,16 +62,17 @@ content.
 4) section:  lement is a semantic HTML5 element used to define a distinct thematic grouping or section of content within a document.  
 
 # CSS property : 
-1) display: flex => This property turns the selected element into a flex container, enabling the use of Flexbox layout properties.
+1) display: flex => This property turns the selected element into a flex container, enabling the use of Flexbox layout properties.  
 2) lex-direction: column => This property establishes the direction of the main axis along which flex items are distributed. In this case,
  it arranges the flex items vertically in a column.
 3) align-items: center => This property aligns flex items along the cross axis (perpendicular to the main axis). It horizontally centers the
 flex items within the flex container.
 4)justify-content: center => This property aligns flex items along the main axis. It vertically centers the flex items within the flex container.
 5)color => This property sets the text color of the content inside the flex container.
-6)psudeo class (hover) =>  A pseudo-class is a CSS selector that allows you to target a specific state or interaction of an HTML element.   
+6)psudeo class (hover) =>  A pseudo-class is a CSS selector that allows you to target a specific state or interaction of an HTML element.    
 Pseudo-classes are preceded by a colon (:) and are used to apply styles to elements based on user actions or their position in the document tree.
-hover=> This pseudo-class is used to apply styles when a user hovers their mouse over an element.
+7) hover=> This pseudo-class is used to apply styles when a user hovers their mouse over an element.
+ 
 
 # Section-2 & Section-3
 ![section-2](https://github.com/mansi2020/css-assign4_hw/assets/57188328/0d02866d-8483-429f-b375-4affc9df085c)
